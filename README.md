@@ -1,2 +1,3 @@
-Simple Raycasting Engine 
+# Simple Raycasting Engine
+
 Library used: SFML
